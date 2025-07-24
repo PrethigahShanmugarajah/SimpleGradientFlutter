@@ -1,21 +1,22 @@
-<<<<<<< HEAD
-# first_app
+# SimpleGradientFlutter
 
-A new Flutter project.
+A basic Flutter application demonstrating the use of a linear gradient background with a custom styled text widget.
+
+## Features
+
+- Linear gradient background transitioning from red to green.
+- Custom reusable `StyledText` widget to display styled text.
+- Clean and simple UI using Flutter’s `Container` and `Text` widgets.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK installed.  
+- An editor like VS Code or Android Studio.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Running the App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# SimpleGradientFlutter
-A basic Flutter application demonstrating the use of a linear gradient background with a custom styled text widget.
->>>>>>> 68cf5b8a7a1e6d45e80669d353e151da8f8b1c11
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/PrethigahShanmugarajah/SimpleGradientFlutter.git
